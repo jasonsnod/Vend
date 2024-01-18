@@ -5,6 +5,14 @@ A command line application to mimic a vending machine.
 
 This project is a class project that is an application to mimic a vending machine. It allows users to add money to it, loads a file storing the amount of products to be purchased, logs sales and sales history of session, allows for purchases of products.
 
+## Documentation
+
+The files of this project are design documents used in the early stages of the development of the project. They can be downloaded and opened in;
+
+https://app.diagrams.net/
+
+These will help visualize the architecture of the application.
+
 ### Business requirements
 
 1. The vending machine dispenses beverages, candy, chips, and gum.
